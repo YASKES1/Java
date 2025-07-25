@@ -2,6 +2,7 @@ import java.util.Scanner;
 import java.util.InputMismatchException;
 
 
+
 class Derivative{
     public String zad;
     public int a, b, c, p, p1, p2, p3;
